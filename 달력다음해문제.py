@@ -19,7 +19,7 @@ day라는 리스트 변수에 모든 요일을 차례로 저장하고(일요일�
 day=['일','월','화','수','목','금','토']
 
 year=list(map(int,input().split()))
-day1=input()
+day1=input("day1:")
 day1_index=day.index(day1)
 yy1,yy2=year[0],year[1]
 days=0
