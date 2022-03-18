@@ -30,4 +30,4 @@ for i in range(yy1,yy2):
 		days+=365
 day1_index+=days
 day1_index%=7
-print(day[day1_index])	#day의 index값이 day1_index인 요소(요일)를 출력한다.
+print("day[day1_index]: ",day[day1_index])	#day의 index값이 day1_index인 요소(요일)를 출력한다.
