@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # UTF-8 encoding when using korean
 
-#1번째 수정
+#코드 수정~~~~
 #송가현 202101828 컴퓨터공학부
 # touched by 제2의 송가현!
 '''
